@@ -8,6 +8,10 @@ useful analyses using Planteome ontologies and associations.
 
 For optimal viewing, browse this folder [using nbviewer](http://nbviewer.jupyter.org/github/Planteome/planteome-notebooks/tree/master/) .
 
+Currently we only have one notebook, but more are coming! See pull requests for detail:
+
+ * [Basic_PO_Query](http://nbviewer.jupyter.org/github/Planteome/planteome-notebooks/blob/master/Basic_PO_Query.ipynb)
+
 The notebooks can also be see in GitHub on the [Planteome/planteome-notebooks](https://github.com/Planteome/planteome-notebooks)
 
 ## Running or editing a notebook
